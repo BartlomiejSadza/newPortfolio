@@ -28,7 +28,7 @@ const Hero = () => {
 					</h2>
 
 					<TextGenerateEffect
-						className='text-center text-[40px] md:text-5xl lg:text-6xl'
+						className='text-center text-[40px] md:text-5xl lg:text-7xl'
 						duration={2}
 						words='Crafting Web Solutions with React, TypeScript & a Dash of Azure'
 					/>

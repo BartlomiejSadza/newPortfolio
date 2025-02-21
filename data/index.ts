@@ -173,31 +173,31 @@ export const companies = [
 export const workExperience = [
 	{
 		id: 1,
-		title: "Frontend Engineer Intern",
-		desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+		title: "Junior Fullstack Developer",
+		desc: "Participating in the development of a websites using most often Next.js. AGH Code Industry WebDev-Team.",
 		className: "md:col-span-2",
-		thumbnail: "/exp1.svg",
+		thumbnail: "/exp4.svg",
 	},
 	{
 		id: 2,
-		title: "Mobile App Dev - JSM Tech",
-		desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+		title: "Front-End Developer",
+		desc: "Rebuild the website based on design we made with a team, significantly improving its previous outdated version. UX Berries",
 		className: "md:col-span-2", // change to md:col-span-2
 		thumbnail: "/exp2.svg",
 	},
 	{
 		id: 3,
-		title: "Freelance App Dev Project",
-		desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+		title: "UI/UX Designer",
+		desc: "I collaborated with a team to create the design for the website, resulting in a significant improvement of user expirience. UX Berries",
 		className: "md:col-span-2", // change to md:col-span-2
 		thumbnail: "/exp3.svg",
 	},
 	{
 		id: 4,
-		title: "Lead Frontend Developer",
-		desc: "Developed and maintained user-facing features using modern frontend technologies.",
+		title: "Assistant to the Chief Production Manager",
+		desc: "Managed ERP XL software, Excel spreadsheets, production schedules, HR tasks, and data reporting. Betard Sp. z o.o.",
 		className: "md:col-span-2",
-		thumbnail: "/exp4.svg",
+		thumbnail: "/exp5.png",
 	},
 ];
 

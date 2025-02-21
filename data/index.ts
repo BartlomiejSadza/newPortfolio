@@ -21,10 +21,11 @@ export const gridItems = [
 		title: "I'm very flexible with time zone communications",
 		description: "",
 		className: "lg:col-span-2 md:col-span-3 md:row-span-2",
-		imgClassName: "w-full h-full object-cover object-center",
+		imgClassName:
+			"absolute right-2 -bottom-12 md:-bottom-20 blur-[2px] w-auto max-h-full z-10",
 		titleClassName: "justify-start",
-		img: "/globe.png",
-		spareImg: "",
+		img: "/Subject.png",
+		spareImg: "/grid.svg",
 	},
 	{
 		id: 3,
@@ -34,7 +35,7 @@ export const gridItems = [
 		imgClassName: "",
 		titleClassName: "justify-center",
 		img: "",
-		spareImg: "",
+		spareImg: "/grid.svg",
 	},
 	{
 		id: 4,
@@ -174,7 +175,7 @@ export const workExperience = [
 	{
 		id: 1,
 		title: "Junior Fullstack Developer",
-		desc: "Participating in the development of a websites using most often Next.js. AGH Code Industry WebDev-Team.",
+		desc: "Currently participating in the development of a websites using most often Next.js. AGH Code Industry WebDev-Team.",
 		className: "md:col-span-2",
 		thumbnail: "/exp4.svg",
 	},
@@ -182,14 +183,14 @@ export const workExperience = [
 		id: 2,
 		title: "Front-End Developer",
 		desc: "Rebuild the website based on design we made with a team, significantly improving its previous outdated version. UX Berries",
-		className: "md:col-span-2", // change to md:col-span-2
+		className: "md:col-span-2",
 		thumbnail: "/exp2.svg",
 	},
 	{
 		id: 3,
 		title: "UI/UX Designer",
 		desc: "I collaborated with a team to create the design for the website, resulting in a significant improvement of user expirience. UX Berries",
-		className: "md:col-span-2", // change to md:col-span-2
+		className: "md:col-span-2",
 		thumbnail: "/exp3.svg",
 	},
 	{

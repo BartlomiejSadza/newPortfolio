@@ -16,7 +16,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-	title: "Bartlomiej Portfolio",
+	icons: "me.jpeg",
+	title: "Bartlomiej Sadza",
 	description: "Bartlomiej Sadza new Portfolio",
 };
 

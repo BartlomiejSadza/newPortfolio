@@ -125,7 +125,7 @@ export const projects = [
 			"/NumPy.svg",
 			"/pandas.svg",
 			"/Matplotlib.svg",
-			"/Azure.svg",
+			"/azure.svg",
 		],
 		link: "https://github.com/BartlomiejSadza/MachineLearning",
 	},

@@ -134,13 +134,13 @@ export const projects = [
 export const testimonials = [
 	{
 		quote:
-			"“Bartłomiej’s application stands out with its clear, readable, and aesthetically pleasing interface, boosted by a creative approach to Dark Mode. His use of TypeScript and Next.js showcases a solid grasp of current industry standards, and employing external libraries for data fetching demonstrates strong backend fundamentals. He’s got the makings of a promising developer who values clarity and modern solutions.”",
+			"“Your application stands out with its clear, readable, and aesthetically pleasing interface, boosted by a creative approach to Dark Mode. Use of TypeScript and Next.js showcases a solid grasp of current industry standards, and employing external libraries for data fetching demonstrates strong backend fundamentals. You got the makings of a promising developer who values clarity and modern solutions.”",
 		name: "Justyna Janczur",
 		title: "Senior Recruitment Specialist at Codibly",
 	},
 	{
 		quote:
-			"“First of all, congratulations, because the result you achieved is really good compared to other solutions we receive.The project has a solid foundation, and details like debounce in the search bar or ESLint indicate a thoughtful approach to implementation. The project structure is clear, and the code itself is pleasant to read. Additionally, during the interview, we noticed that you have solid mathematical foundations, which is a major asset and can translate into a good understanding of more advanced programming concepts.”",
+			"“First of all, congratulations, because the result you achieved is really good compared to other solutions we receive. The project has a solid foundation, and details like debounce in the search bar or ESLint indicate a thoughtful approach to implementation. The project structure is clear, and the code itself is pleasant to read. Additionally, during the interview, we noticed that you have solid mathematical foundations, which is a major asset and can translate into a good understanding of more advanced programming concepts.”",
 		name: "Agatha Gąsiorowska",
 		title: "Business Manager w The Widlarz Group",
 	},
@@ -155,33 +155,21 @@ export const testimonials = [
 export const companies = [
 	{
 		id: 1,
-		name: "cloudinary",
-		img: "/cloud.svg",
-		nameImg: "/cloudName.svg",
+		name: "Betard",
+		img: "/betard.svg",
+		nameImg: "/betardName.svg",
 	},
 	{
 		id: 2,
 		name: "appwrite",
-		img: "/app.svg",
-		nameImg: "/appName.svg",
+		img: "/thewidlarz.png",
+		nameImg: "/thewidlarzName.svg",
 	},
 	{
 		id: 3,
 		name: "HOSTINGER",
-		img: "/host.svg",
-		nameImg: "/hostName.svg",
-	},
-	{
-		id: 4,
-		name: "stream",
-		img: "/s.svg",
-		nameImg: "/streamName.svg",
-	},
-	{
-		id: 5,
-		name: "docker.",
-		img: "/dock.svg",
-		nameImg: "/dockerName.svg",
+		img: "/codibly.png",
+		nameImg: "/codiblyName.svg",
 	},
 ];
 

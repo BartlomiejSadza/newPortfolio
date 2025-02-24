@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #0076c0;
+      }
+
+      .cls-3 {
+        fill: #e60004;
+      }
+    </style>
+  </defs>
+  <g id="logo">
+    <g>
+      <rect class="cls-1" width="32" height="32"/>
+      <g>
+        <polygon class="cls-2" points="22.05 2.09 22.05 6.94 28.87 6.94 22.05 19.53 22.05 29.91 29.91 29.91 29.91 2.09 22.05 2.09"/>
+        <g>
+          <polygon class="cls-3" points="19.96 6.94 5.87 6.94 2.09 13.92 2.09 2.09 19.96 2.09 19.96 6.94"/>
+          <rect class="cls-3" x="2.09" y="19.55" width="17.88" height="10.36"/>
+          <polygon class="cls-3" points="20.79 17.46 2.54 17.46 7.11 9.03 25.37 9.03 20.79 17.46"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

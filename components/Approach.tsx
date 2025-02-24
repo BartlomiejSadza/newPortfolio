@@ -12,9 +12,9 @@ const Approach = () => {
 			<div>
 				<div className='my-20 flex flex-col lg:flex-row items-center justify-center gap-4'>
 					<Card
-						title='Planning & Strategy'
+						title='Strategy & Design'
 						icon={<AceternityIcon order='Phase 1' />}
-						description='Once we agree on the plan, I cue my lofi playlist and dive into coding. From initial sketches to polished code, I keep you updated every step of the way.'>
+						description='Once we agree on the plan, I cue my lofi playlist and dive into design process. From Figma initial sketches to HiFi Wireframes, I keep you updated every step of the way.'>
 						<CanvasRevealEffect
 							animationSpeed={2.5}
 							containerClassName='bg-emerald-900'
@@ -23,7 +23,7 @@ const Approach = () => {
 					<Card
 						title='Development & Progress'
 						icon={<AceternityIcon order='Phase 2' />}
-						description='Once we agree on the plan, I cue my lofi playlist and dive into coding. From initial sketches to polished code, I keep you updated every step of the way.'>
+						description='Then, I go get some coffee and sit down to write some code. Initially, I establish a skeleton and initial architecture and start building application, following the design and required functionality.'>
 						<CanvasRevealEffect
 							animationSpeed={2.5}
 							containerClassName='bg-black'
@@ -35,9 +35,9 @@ const Approach = () => {
 						/>
 					</Card>
 					<Card
-						title='Development & Launch'
+						title='Deployment & Launch'
 						icon={<AceternityIcon order='Phase 3' />}
-						description='Once we agree on the plan, I cue my lofi playlist and dive into coding. From initial sketches to polished code, I keep you updated every step of the way.'>
+						description='In the last step, after corrections and joint arrangements, I move on to deploying the application and testing it. I choose the most advantageous platforms so that it is optimal both economically and technologically.'>
 						<CanvasRevealEffect
 							animationSpeed={2.5}
 							containerClassName='bg-sky-600'

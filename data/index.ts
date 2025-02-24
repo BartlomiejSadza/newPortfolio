@@ -134,33 +134,21 @@ export const projects = [
 export const testimonials = [
 	{
 		quote:
-			"Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-		name: "Michael Johnson",
-		title: "Director of AlphaStream Technologies",
+			"“Bartłomiej’s application stands out with its clear, readable, and aesthetically pleasing interface, boosted by a creative approach to Dark Mode. His use of TypeScript and Next.js showcases a solid grasp of current industry standards, and employing external libraries for data fetching demonstrates strong backend fundamentals. He’s got the makings of a promising developer who values clarity and modern solutions.”",
+		name: "Justyna Janczur",
+		title: "Senior Recruitment Specialist at Codibly",
 	},
 	{
 		quote:
-			"Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-		name: "Michael Johnson",
-		title: "Director of AlphaStream Technologies",
+			"“First of all, congratulations, because the result you achieved is really good compared to other solutions we receive.The project has a solid foundation, and details like debounce in the search bar or ESLint indicate a thoughtful approach to implementation. The project structure is clear, and the code itself is pleasant to read. Additionally, during the interview, we noticed that you have solid mathematical foundations, which is a major asset and can translate into a good understanding of more advanced programming concepts.”",
+		name: "Agatha Gąsiorowska",
+		title: "Business Manager w The Widlarz Group",
 	},
 	{
 		quote:
-			"Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-		name: "Michael Johnson",
-		title: "Director of AlphaStream Technologies",
-	},
-	{
-		quote:
-			"Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-		name: "Michael Johnson",
-		title: "Director of AlphaStream Technologies",
-	},
-	{
-		quote:
-			"Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-		name: "Michael Johnson",
-		title: "Director of AlphaStream Technologies",
+			"“Bartłomiej was an invaluable asset to our production team at Betard. He quickly established himself as a reliable and highly capable member of the department, tackling a wide range of responsibilities — from developing production schedules, to handling HR tasks and creating detailed spreadsheets. His strong organizational skills and eagerness to learn greatly contributed to a smooth, efficient workflow. I would gladly welcome the opportunity to work with him again in the future.”",
+		name: "Sylwester Nowak",
+		title: "Chief Production Manager at Betard",
 	},
 ];
 

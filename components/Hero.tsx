@@ -35,8 +35,9 @@ const Hero = () => {
 					/>
 
 					<p className='text-center md:tracking-wider m-4 text-sm md:text-lg lg:text-2xl'>
-						Hi, I&apos;m Bartlomiej, a Junior FullStack Developer based in
-						Krakow.
+						Hi, I&apos;m{" "}
+						<span className='text-purple font-bold'>Bartlomiej</span>, a Junior
+						FullStack Developer based in Krakow.
 					</p>
 					<Link href='#about'>
 						<MagicButton

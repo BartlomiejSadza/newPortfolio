@@ -9,7 +9,7 @@ export const gridItems = [
 	{
 		id: 1,
 		title:
-			"I prioritize client, team collaboration, fostering open communication ",
+			"Client focus, collaborative spirit, and clear communication - the core pillars of my work ethic",
 		description: "",
 		className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
 		imgClassName: "w-full h-full object-cover object-center",
@@ -208,13 +208,16 @@ export const socialMedia = [
 	{
 		id: 1,
 		img: "/git.svg",
+		url: "https://github.com/BartlomiejSadza",
 	},
 	{
 		id: 2,
 		img: "/link.svg",
+		url: "https://www.linkedin.com/in/bartlomiej-sadza/",
 	},
 	{
 		id: 3,
 		img: "/facebook.svg",
+		url: "https://www.facebook.com/bartek.sadza.9",
 	},
 ];

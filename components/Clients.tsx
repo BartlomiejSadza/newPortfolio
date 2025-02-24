@@ -22,7 +22,7 @@ const Clients = () => {
 							<img
 								src={nameImg}
 								alt={name}
-								className={`md:w-16 ${id === 2 && "md:w-32"} w-10`}
+								className={`md:w-16 ${id === 2 && "md:w-32 w-16"} w-10`}
 							/>
 						</div>
 					))}

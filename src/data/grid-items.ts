@@ -32,6 +32,7 @@ export const gridItems: GridItem[] = [
     titleClassName: "justify-center",
     img: "/grid.svg",
     spareImg: "/grid.svg",
+    cardType: "tech-stack",
   },
   {
     id: 4,
@@ -63,5 +64,6 @@ export const gridItems: GridItem[] = [
     titleClassName: "justify-center md:max-w-full max-w-60 text-center",
     img: "",
     spareImg: "",
+    cardType: "email-copy",
   },
 ];

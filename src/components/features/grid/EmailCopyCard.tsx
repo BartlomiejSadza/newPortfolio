@@ -2,7 +2,6 @@
 
 import { useCopyToClipboard } from '@/hooks/useCopyToClipboard';
 import { CONTACT_EMAIL } from '@/constants/contact';
-import { COLORS } from '@/constants/colors';
 import MagicButton from '@/components/ui/MagicButton';
 import { IoCopyOutline } from 'react-icons/io5';
 import animationData from '@/data/confetti.json';
@@ -31,7 +30,7 @@ export const EmailCopyCard = () => {
         title={copied ? 'e-mail copied!!' : 'Copy my e-mail'}
         icon={<IoCopyOutline />}
         position='left'
-        otherClasses={`!bg-[${COLORS.backgroundCard}]`}
+        otherClasses='!bg-[#161a31]'
         handleClick={copyToClipboard}
       />
     </div>

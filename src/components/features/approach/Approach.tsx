@@ -3,6 +3,7 @@
 import React from 'react';
 import { AnimatePresence, motion } from 'framer-motion';
 import { CanvasRevealEffect } from '@/components/ui/CanvasRevealEffect';
+import { COLORS } from '@/constants/colors';
 
 const Approach = () => {
   return (
@@ -95,7 +96,7 @@ const Card = ({ title, icon, description, children }: CardProps) => {
         </h2>
         <h2
           className='dark:text-white text-sm opacity-0 group-hover/canvas-card:opacity-100 relative z-10 text-black mt-4  font-bold group-hover/canvas-card:text-white group-hover/canvas-card:-translate-y-2 transition duration-200 text-center'
-          style={{ color: '#e4ecff' }}
+          style={{ color: COLORS.textLight }}
         >
           {description}
         </h2>
@@ -117,7 +118,7 @@ const AceternityIcon = ({ order }: { order: string }) => {
   );
 };
 
-const Icon = ({ className, ...rest }: any) => {
+const Icon = ({ className, ...rest }: React.SVGProps<SVGSVGElement>) => {
   return (
     <svg
       xmlns='http://www.w3.org/2000/svg'

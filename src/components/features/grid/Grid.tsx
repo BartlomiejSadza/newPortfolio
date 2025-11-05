@@ -21,10 +21,10 @@ const Grid = () => {
             spareImg={item.spareImg}
           >
             {/* Tech Stack Card */}
-            {item.id === 3 && <TechStackCard />}
+            {item.cardType === 'tech-stack' && <TechStackCard />}
 
-            {/* Email Copy Card */}
-            {item.id === 6 && (
+            {/* Email Copy Card with Background */}
+            {item.cardType === 'email-copy' && (
               <>
                 <BackgroundGradientAnimation>
                   <div className='absolute z-50 flex items-center justify-center text-white font-bold' />

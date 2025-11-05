@@ -1,3 +1,5 @@
+export type GridCardType = 'default' | 'tech-stack' | 'email-copy' | 'gradient-background';
+
 export interface GridItem {
   id: number;
   title: string;
@@ -7,6 +9,7 @@ export interface GridItem {
   titleClassName: string;
   img: string;
   spareImg: string;
+  cardType?: GridCardType;
 }
 
 export interface BentoGridProps {

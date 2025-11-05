@@ -50,10 +50,7 @@ export const BentoGridItem = ({
           )}
         >
           {description && (
-            <div
-              className='font-sans font-extralight md:text-xs lg:text-base text-sm z-10'
-              style={{ color: COLORS.blue }}
-            >
+            <div className='font-sans font-extralight md:text-xs lg:text-base text-sm z-10 text-[#C1C2D3]'>
               {description}
             </div>
           )}

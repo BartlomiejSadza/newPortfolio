@@ -9,6 +9,7 @@ export const COLORS = {
   // Accent colors
   purple: '#cbacf9',
   blue: '#C1C2D3',
+  textLight: '#e4ecff',
 
   // Border colors
   borderLight: 'white/[0.1]',

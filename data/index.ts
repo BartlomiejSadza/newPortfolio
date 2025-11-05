@@ -52,7 +52,7 @@ export const gridItems = [
 	{
 		id: 5,
 		title:
-			"Currently exploring the magic of SSR rendering technology & Expo.js",
+			"Currently working with Next.js, Spring Boot, and exploring Kubernetes & Grafana",
 		description: "The Inside Scoop",
 		className: "md:col-span-3 md:row-span-2",
 		imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -176,29 +176,29 @@ export const companies = [
 export const workExperience = [
 	{
 		id: 1,
-		title: "Junior Fullstack Developer",
-		desc: "Currently participating in the development of a websites using most often Next.js. AGH Code Industry WebDev-Team.",
+		title: "Junior Full Stack Developer",
+		desc: "Working on Konto Onet - main authentication and user management system. Developing authentication flows, building user panel features with Next.js and React, supporting internal tools. Ringier Axel Springer Polska",
 		className: "md:col-span-2",
 		thumbnail: "/exp4.svg",
 	},
 	{
 		id: 2,
-		title: "Front-End Developer",
-		desc: "Rebuild the website based on design we made with a team, significantly improving its previous outdated version. UX Berries",
+		title: "Head of Information Technology",
+		desc: "Leading tech initiatives beyond Figma - from automation and integrations to implementing tools that make UX team's life easier. UXberries",
 		className: "md:col-span-2",
 		thumbnail: "/exp2.svg",
 	},
 	{
 		id: 3,
-		title: "UI/UX Designer",
-		desc: "I collaborated with a team to create the design for the website, resulting in a significant improvement of user expirience. UX Berries",
+		title: "Full-stack Developer",
+		desc: "Participating in the development of websites using Next.js and modern tech stack. Working with cross-functional teams on various projects. AGH Code Industry",
 		className: "md:col-span-2",
 		thumbnail: "/exp3.svg",
 	},
 	{
 		id: 4,
-		title: "Assistant to the Chief Production Manager",
-		desc: "Managed ERP XL software, Excel spreadsheets, production schedules, HR tasks, and data reporting. Betard Sp. z o.o.",
+		title: "Junior Full Stack Engineer",
+		desc: "Developed medical app from scratch using Next.js & Expo. Built features for healthcare providers and patients with focus on user experience. Alergeek Ventures",
 		className: "md:col-span-2",
 		thumbnail: "/exp5.png",
 	},

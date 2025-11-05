@@ -1,12 +1,12 @@
-import Grid from "@/components/Grid";
-import Hero from "@/components/Hero";
-import RecentProjects from "@/components/RecentProjects";
-import Clients from "@/components/Clients";
-import { FloatingNav } from "@/components/ui/FloatingNav";
-import { navItems } from "@/data";
-import Expirience from "@/components/Expirience";
-import Approach from "@/components/Approach";
-import Footer from "@/components/Footer";
+import Grid from '@/components/features/grid/Grid';
+import Hero from '@/components/features/hero/Hero';
+import RecentProjects from '@/components/features/projects/RecentProjects';
+import Clients from '@/components/features/testimonials/Clients';
+import { FloatingNav } from '@/components/ui/FloatingNav';
+import { navItems } from '@/data';
+import Experience from '@/components/features/experience/Experience';
+import Approach from '@/components/features/approach/Approach';
+import Footer from '@/components/features/footer/Footer';
 
 export default function Home() {
 	return (
@@ -17,7 +17,7 @@ export default function Home() {
 				<Grid />
 				<RecentProjects />
 				<Clients />
-				<Expirience />
+				<Experience />
 				<Approach />
 				<Footer />
 			</div>

@@ -3,7 +3,7 @@ import { ThemeProvider } from "./provider";
 import "./globals.css";
 import { SpeedInsights } from "@vercel/speed-insights/next";
 import { Analytics } from "@vercel/analytics/react";
-import { GoogleAnalytics } from "@next/third-parties/google";
+import { GoogleAnalytics } from '@next/third-parties/google';
 
 export const metadata: Metadata = {
 	icons: "me.jpeg",

@@ -37,7 +37,7 @@ const Hero = () => {
 					<p className='text-center md:tracking-wider m-4 text-sm md:text-lg lg:text-2xl'>
 						Hi, I&apos;m{" "}
 						<span className='text-purple font-bold'>Bartlomiej</span>, a Software
-						Developer at Ringier Axel Springer Polska based in Krakow.
+						Developer based in Krakow.
 					</p>
 					<Link href='#about'>
 						<MagicButton

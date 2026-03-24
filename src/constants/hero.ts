@@ -4,7 +4,7 @@ export const HERO_CONTENT = {
   description: {
     prefix: "Hi, I'm",
     name: 'Bartlomiej',
-    suffix: ', a Software Developer at Ringier Axel Springer Polska based in Krakow.',
+    suffix: ', a Software Developer based in Krakow.',
   },
   cta: {
     text: 'Show my work',

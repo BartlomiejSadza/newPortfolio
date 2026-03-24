@@ -35,7 +35,7 @@ const Footer = () => {
       </div>
       <div className='flex mt-16 md:flex-row flex-col justify-between items-center'>
         <p className='md:text-base text-sm md:font-normal font-light '>
-          Copyright © 2025 Bartlomiej Sadza
+          Copyright © {new Date().getFullYear()} Bartlomiej Sadza
         </p>
         <div className='flex items-center md:gap-3 gap-6'>
           {socialMedia.map((profile) => (

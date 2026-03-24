@@ -176,8 +176,8 @@ export const companies = [
 export const workExperience = [
 	{
 		id: 1,
-		title: "Junior Full Stack Developer",
-		desc: "Working on Konto Onet - main authentication and user management system. Developing authentication flows, building user panel features with Next.js and React, supporting internal tools. Ringier Axel Springer Polska",
+		title: "Full-stack Developer Intern",
+		desc: "Built and maintained authentication flows for Konto Onet — the central user management system powering Onet's ecosystem. Developed user-facing panel features with Next.js, React, and TypeScript. Ringier Axel Springer Polska",
 		className: "md:col-span-2",
 		thumbnail: "/exp4.svg",
 	},
